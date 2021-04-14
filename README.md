@@ -1,2 +1,2 @@
 # mathfunctions
-applied mathematical functions in python for machine learning
+Tutorial to apply mathematical functions in python for machine learning de novo
